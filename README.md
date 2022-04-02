@@ -61,14 +61,18 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 🔥 &nbsp; My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-ebrahimy&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  
+</br>
+</br>
        <div align="center">
             &nbsp;
             <img align="center" src="https://stats.ali-ebrahimy.com/api?username=ali-ebrahimy&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="ali-ebrahimy" />
         </div>
-  
+ </br>
+ </br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ebrahimy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
   <div align="center">
         <strong>
             <font size="+2" style="font">
