@@ -9,15 +9,14 @@
   <a href="https://www.linkedin.com/in/aliebrahimyy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/ali_ebrahimy">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/ali_ebrahimy/">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://twitter.com/aliEbrahimyy">
+  <a href="https://twitter.com/aliEbrahimyy/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-</a>
-<a href="https://twitter.com/aliebrahimyy" target="blank">
+<a href="https://www.instagram.com/javascript.more/" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ali-ebrahimy&style=flat-square&color=blue" alt=""></p>
