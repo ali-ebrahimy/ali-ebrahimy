@@ -67,7 +67,7 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ebrahimy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ali-ebrahimy&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ali-ebrahimy/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ali-ebrahimy&ali ebrahimy graph=This%20is%20a%20title&hide_border=true)](https://github.com/ali-ebrahimy/github-readme-activity-graph)
   
 </br>
   <div align="center">
