@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
