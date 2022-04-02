@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <a href="https://www.instagram.com/javascript.more/" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ali-ebrahimy&style=flat-square&color=blue" alt=""></p>
