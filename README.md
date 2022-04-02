@@ -62,16 +62,11 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-ebrahimy&theme=dark&background=000000)](https://git.io/streak-stats)
   
-</br>
-</br>
-       <div align="center">
-            &nbsp;
-            <img align="center" src="https://stats.ali-ebrahimy.com/api?username=ali-ebrahimy&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="ali-ebrahimy" />
-        </div>
- </br>
- </br>
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ebrahimy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ali-ebrahimy's Activity Graph" src="https://ali-ebrahimy-activity-graph.herokuapp.com/graph/?username=ali-ebrahimy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </br>
   <div align="center">
         <strong>
