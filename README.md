@@ -1,4 +1,4 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> i'm ali ebrahimy</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=i'm+Frontend+Developer)](https://git.io/typing-svg)
 
@@ -64,4 +64,10 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ebrahimy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  <div align="center">
+        <strong>
+            <font size="+2" style="font">
+                Pedromdsn © 2021
+            </font>
+        </strong>
+    </div>
