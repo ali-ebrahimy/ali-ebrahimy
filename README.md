@@ -62,12 +62,18 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-ebrahimy&theme=dark&background=000000)](https://git.io/streak-stats)
 
+      <a href="https://www.pedromdsn.com/">
+        <div align="center">
+            &nbsp;
+            <img align="center" src="https://stats.pedromdsn.com/api?username=pedromdsn&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="pedromdsn" />
+        </div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ebrahimy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <div align="center">
         <strong>
             <font size="+2" style="font">
-                Pedromdsn © 2021
+                ali-ebrhimy © 2021
             </font>
         </strong>
     </div>
